@@ -184,7 +184,7 @@ charactersMap.forEach((row, i) => {
           scale: 3,
           animate: true,
           dialogue: ['<p>Good job on your first battle!</p>',
-          'You\'ve now mastered the basics of HTML' ]
+          '<p>You\'ve now mastered the basics of HTML</p>' ]
         })
       )
     }
@@ -289,7 +289,7 @@ charactersMap.forEach((row, i) => {
           scale: 3,
           animate: true,
           dialogue: ['<p>Excellent work on your second battle!</p>',
-        'CSS is now your ally. You\'ve added style and flair to your coding repertoire.' ]
+        '<p>CSS is now your ally. You\'ve added style and flair to your coding repertoire.</p>' ]
         })
       )
     }
@@ -329,10 +329,10 @@ charactersMap.forEach((row, i) => {
           },
           scale: 3,
           animate: true,
-          dialogue: ['Hey there, I\'ve got something on my mind.',
-          'Picture this: standing at the entrance of the coding world, feeling like there\'s this endless sea of things to learn. It\'s kinda nerve-wracking, you know?',
-          'I\'ve been wondering if waiting until I know everything is a bit too much. Like, coding is this constant journey of learning, and I\'m here contemplating if I should know it all before seeking a job.. Crazy, right?',
-          'The fear creeps in when I think about facing problems I have zero clue how to solve. It\'s like staring into the abyss of the unknown. But then, there\'s this thought that maybe it\'s okay not to have all the answers upfront.',
+          dialogue: ['<p>Hey there, I\'ve got something on my mind.</p>',
+          '<p>Picture this: standing at the entrance of the coding world, feeling like there\'s this endless sea of things to learn. It\'s kinda nerve-wracking, you know?</p>',
+          '<p>I\'ve been wondering if waiting until I know everything is a bit too much. Like, coding is this constant journey of learning, and I\'m here contemplating if I should know it all before seeking a job.. Crazy, right?</p>',
+          '<p>The fear creeps in when I think about facing problems I have zero clue how to solve. It\'s like staring into the abyss of the unknown. But then, there\'s this thought that maybe it\'s okay not to have all the answers upfront.</p>',
           '<p>Oh, I see another dark green patch up ahead. If you\'re feeling brave, why not step into it? Who knows what adventures await those who dare?</p>']
         })
       )
@@ -353,7 +353,7 @@ charactersMap.forEach((row, i) => {
           scale: 3,
           animate: true,
           dialogue: ['<p>Bravo on conquering your third battle! With JavaScript, you\'ve unlocked the true power of interactivity.</p>',
-          'You\'ve fully developed, my friend. It\'s like having a versatile toolkit at your disposal. HTML, CSS, and JavaScript—they dance together in harmony, ready to face any coding quest.']
+          '<p>You\'ve fully developed, my friend. It\'s like having a versatile toolkit at your disposal. HTML, CSS, and JavaScript—they dance together in harmony, ready to face any coding quest.</p>']
         })
       )
     }
