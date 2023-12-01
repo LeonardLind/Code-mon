@@ -183,7 +183,8 @@ charactersMap.forEach((row, i) => {
           },
           scale: 3,
           animate: true,
-          dialogue: ['<p>Good job on your first battle!</p>' ]
+          dialogue: ['<p>Good job on your first battle!</p>',
+          'You\'ve now mastered the basics of HTML' ]
         })
       )
     }
@@ -202,10 +203,10 @@ charactersMap.forEach((row, i) => {
               },
               scale: 3,
               animate: true,
-              dialogue: ['<p>Hi, again! Let me shed some light on the story of the coder of this world. They started as a substitute teacher, facing the daunting task of speaking before a group and adapting rhetorically and behaviorally.</p>',
-              '<p>Over time, these skills became second nature, and they realized that their personal development had plateaued.</p>', 
-              '<p>Coding emerged as an opportunity to rekindle their self-development journey.</p>',
-              '<p>If we had to summarize their strength in one word, it would be \'patience.\' Their natural calmness and patience have served them well, honed by their experiences in the world of education.</p>',
+              dialogue: ['<p>Hi, again! Let me shed some light on the story of the coder of this world. He started as a substitute teacher, facing the daunting task of speaking before a group and adapting rhetorically and behaviorally.</p>',
+              '<p>Over time, these skills became second nature, and he realized that his personal development had plateaued.</p>',
+              '<p>Coding emerged as an opportunity to rekindle his self-development journey.</p>',
+              '<p>If we had to summarize his strength in one word, it would be \'patience.\' His natural calmness and patience have served him well, honed by his experiences in the world of education.</p>',
               '<p>These qualities are equally applicable in coding, where understanding and patience are vital in tackling complex problems and debugging.</p>']
             })
           )
@@ -287,7 +288,8 @@ charactersMap.forEach((row, i) => {
           },
           scale: 3,
           animate: true,
-          dialogue: ['<p>Good job on your second battle!</p>' ]
+          dialogue: ['<p>Excellent work on your second battle!</p>',
+        'CSS is now your ally. You\'ve added style and flair to your coding repertoire.' ]
         })
       )
     }
@@ -327,7 +329,11 @@ charactersMap.forEach((row, i) => {
           },
           scale: 3,
           animate: true,
-          dialogue: ['<p>Oh, I see another dark green patch up ahead. If you\'re feeling brave, why not step into it? Who knows what adventures await those who dare?</p>']
+          dialogue: ['Hey there, I\'ve got something on my mind.',
+          'Picture this: standing at the entrance of the coding world, feeling like there\'s this endless sea of things to learn. It\'s kinda nerve-wracking, you know?',
+          'I\'ve been wondering if waiting until I know everything is a bit too much. Like, coding is this constant journey of learning, and I\'m here contemplating if I should know it all before seeking a job.. Crazy, right?',
+          'The fear creeps in when I think about facing problems I have zero clue how to solve. It\'s like staring into the abyss of the unknown. But then, there\'s this thought that maybe it\'s okay not to have all the answers upfront.',
+          '<p>Oh, I see another dark green patch up ahead. If you\'re feeling brave, why not step into it? Who knows what adventures await those who dare?</p>']
         })
       )
     }
@@ -346,7 +352,8 @@ charactersMap.forEach((row, i) => {
           },
           scale: 3,
           animate: true,
-          dialogue: ['<p>Good job in your third battle</p>']
+          dialogue: ['<p>Bravo on conquering your third battle! With JavaScript, you\'ve unlocked the true power of interactivity.</p>',
+          'You\'ve fully developed, my friend. It\'s like having a versatile toolkit at your disposal. HTML, CSS, and JavaScript—they dance together in harmony, ready to face any coding quest.']
         })
       )
     }
